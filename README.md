@@ -7,6 +7,14 @@
 > [!WARNING]
 > En el video se muestra una version legacy de MuTalk el repositorio oficial es del siguiente [enlace](https://github.com/pharo-contributions/mutalk)
 
+## Herramientas (verificadas)
+
+| Herramienta   | Versión |
+|---------------|---------|
+| PharoLauncher | 3.4.3   |
+| Pharo         | 11      |
+| MuTalk        | 2.5.0   |
+
 ## Introducción
 
 Nuestro objetivo será definir un conjunto de criterios, iniciales, acerca de la calidad de las pruebas que escribimos. Comenzaremos haciéndonos las siguientes preguntas...
