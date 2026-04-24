@@ -13,7 +13,7 @@
 |---------------|---------|
 | PharoLauncher | 3.4.3   |
 | Pharo         | 11      |
-| MuTalk        | 2.5.0   |
+| MuTalk        | 2.3.0   |
 
 ## Introducción
 
