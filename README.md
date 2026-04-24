@@ -54,6 +54,9 @@ Las pruebas de mutación toman un conjunto de pruebas y un código que estas pru
 
 La herramienta que vamos a utilizar para ejecutar estas pruebas de mutación será: [MuTalk](https://github.com/pharo-contributions/mutalk).
 
+> [!NOTE]
+> Utilizar la **Latest release version** de MuTalk para el TP1.
+
 Para ejecutar las pruebas de mutación y obtener el reporte necesitamos:
 
 - Listar el conjunto de pruebas (que ejercitan a los mutantes): (1) `AlgoRemisTest`, (2) `TestValorPeajeEscalonado` y (3) `TestDestino`.
